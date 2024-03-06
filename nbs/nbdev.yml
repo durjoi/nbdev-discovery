@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-discovery"
+  site-url: "https://durjoi.github.io/nbdev-discovery"
+  description: "NbDev testing repo"
+  repo-branch: main
+  repo-url: "https://github.com/durjoi/nbdev-discovery"
